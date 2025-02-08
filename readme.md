@@ -10,10 +10,10 @@ Bem-vindo ao repositório do site **Aconchego Fraldas**, uma loja especializada 
 
 ## 📌 Recursos
 
-- Página inicial apresentando a loja
+- Seção inicial apresentando a loja
 - Seção de produtos
-- Página "Sobre Nós"
-- Página de contato
+- Seção "Sobre Nós"
+- Seção de contato
 - Design responsivo
 
 ## 📁 Estrutura do Projeto
@@ -38,12 +38,17 @@ O site conta com otimização para SEO, incluindo:
 - Twitter Cards
 - URL canônica para melhor ranqueamento
 
+## Licença
+Este projeto está licenciado sob a **Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional**.  
+Você pode acessar os termos completos em [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+
+© 2024 Luiz Eduardo Souza Lima. Todos os direitos reservados.
 
 ## 📞 Contato
 
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-- 📧 Email: contato@aconchegofraldas.com.br
+- 📧 Email: souzalimaluizeduardo@gmail.com.com.br
 - 📍 Localização: Santo Antônio de Jesus, BA, Brasil
 
 Desenvolvido por **ES-Dev**. 🚀
